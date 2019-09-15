@@ -1,6 +1,6 @@
 ## CinemaSystem
 
-This program is console based.  
+This program is console based and uses MVC pattern.  
 Data (cinemas, movies, repertoir) stored in lists, pre-loaded via dataCreator package.
 
 Options available in system (console-based interface via main menu):
