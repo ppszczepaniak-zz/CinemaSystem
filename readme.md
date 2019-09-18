@@ -1,6 +1,6 @@
 ## CinemaSystem
 
-This program is console based and uses MVC pattern. User interaction via Scanner.
+This program is console based and uses MVC pattern, Collections, LocalDateTime. User interaction via Scanner.
 Data (cinemas, movies, repertoir) is stored in lists and pre-loaded via dataCreator package. 
 
 Features available in system (console-based interface via main menu):
